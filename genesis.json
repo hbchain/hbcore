@@ -1,0 +1,854 @@
+{
+  "initial_timestamp": "2018-11-15T08:32:50",
+  "max_core_supply": "10000000000000000",
+  "initial_parameters": {
+    "current_fees": {
+      "parameters": [[
+          0,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          1,{
+            "fee": 50
+          }
+        ],[
+          2,{
+            "fee": 0
+          }
+        ],[
+          3,{
+            "fee": 100
+          }
+        ],[
+          4,{
+            "fee": 0
+          }
+        ],[
+          5,{
+            "basic_fee": 500000,
+            "premium_fee": 20000,
+            "price_per_kbyte": 10
+          }
+        ],[
+          6,{
+            "fee": 100,
+            "price_per_kbyte": 10
+          }
+        ],[
+          7,{
+            "fee": 300000
+          }
+        ],[
+          8,{
+            "membership_annual_fee": 20000,
+            "membership_lifetime_fee": 100000
+          }
+        ],[
+          9,{
+            "fee": 5000
+          }
+        ],[
+          10,{
+            "fee": 5000
+          }
+        ],[
+          11,{
+            "fee": 100
+          }
+        ],[
+          12,{
+            "fee": 5000
+          }
+        ],[
+          13,{
+            "symbol3": 5000000,
+            "symbol4": 3000000,
+            "long_symbol": 50000,
+            "price_per_kbyte": 10
+          }
+        ],[
+          14,{
+            "fee": 5000,
+            "price_per_kbyte": 10
+          }
+        ],[
+          15,{
+            "fee": 5000
+          }
+        ],[
+          16,{
+            "fee": 5000
+          }
+        ],[
+          17,{
+            "fee": 100,
+            "price_per_kbyte": 10
+          }
+        ],[
+          18,{
+            "fee": 100
+          }
+        ],[
+          19,{
+            "fee": 10
+          }
+        ],[
+          20,{
+            "fee": 1000
+          }
+        ],[
+          21,{
+            "fee": 5000
+          }
+        ],[
+          22,{
+            "fee": 10
+          }
+        ],[
+          23,{
+            "fee": 10
+          }
+        ],[
+          24,{
+            "fee": 100000000
+          }
+        ],[
+          25,{
+            "fee": 100
+          }
+        ],[
+          26,{
+            "fee": 0
+          }
+        ],[
+          27,{
+            "fee": 0
+          }
+        ],[
+          28,{
+            "fee": 100,
+            "price_per_kbyte": 10
+          }
+        ],[
+          29,{
+            "fee": 100,
+            "price_per_kbyte": 10
+          }
+        ],[
+          30,{
+            "fee": 10
+          }
+        ],[
+          31,{
+            "fee": 10
+          }
+        ],[
+          32,{
+            "fee": 10
+          }
+        ],[
+          33,{
+            "fee": 200,
+            "price_per_kbyte": 10
+          }
+        ],[
+          34,{
+            "fee": 0
+          }
+        ],[
+          35,{
+            "fee": 1000000000
+          }
+        ],[
+          36,{
+            "fee": 100
+          }
+        ],[
+          37,{
+            "fee": 10
+          }
+        ],[
+          38,{
+            "fee": 35000
+          }
+        ],[
+          39,{
+            "fee": 10
+          }
+        ],[
+          40,{
+            "fee": 200
+          }
+        ],[
+          41,{
+            "fee": 45000
+          }
+        ],[
+          42,{
+            "fee": 10,
+            "price_per_kbyte": 10
+          }
+        ],[
+          43,{
+            "fee": 10
+          }
+        ],[
+          44,{}
+        ],[
+          45,{
+            "fee": 100,
+            "price_per_kbyte": 10
+          }
+        ],[
+          46,{
+            "fee": 100
+          }
+        ],[
+          47,{
+            "fee": 100
+          }
+        ],[
+          48,{
+            "fee": 50,
+            "price_per_output": 50
+          }
+        ],[
+          49,{
+            "fee": 50,
+            "price_per_output": 50
+          }
+        ],[
+          50,{
+            "fee": 50
+          }
+        ],[
+          51,{}
+        ],[
+          52,{
+            "fee": 100
+          }
+        ],[
+          53,{}
+        ],[
+          54,{
+            "fee": 10
+          }
+        ],[
+          55,{
+            "fee": 100
+          }
+        ],[
+          56,{
+            "fee": 100
+          }
+        ],[
+          57,{
+            "fee": 100
+          }
+        ],[
+          58,{
+            "fee": 100
+          }
+        ],[
+          59,{
+            "fee": 100
+          }
+        ],[
+          60,{
+            "fee": 100
+          }
+        ],[
+          61,{
+            "fee": 100
+          }
+        ],[
+          62,{
+            "fee": 100
+          }
+        ],[
+          63,{
+            "fee": 100
+          }
+        ],[
+          64,{
+            "fee": 100
+          }
+        ],[
+          65,{
+            "fee": 100
+          }
+        ],[
+          66,{
+            "fee": 100
+          }
+        ],[
+          67,{
+            "fee": 100
+          }
+        ],[
+          68,{
+            "fee": 100
+          }
+        ],[
+          69,{
+            "fee": 100
+          }
+        ],[
+          70,{
+            "fee": 100
+          }
+        ],[
+          71,{
+            "fee": 100
+          }
+        ],[
+          72,{
+            "fee": 100
+          }
+        ],[
+          73,{
+            "fee": 100
+          }
+        ],[
+          74,{
+            "fee": 100
+          }
+        ],[
+          75,{
+            "fee": 100
+          }
+        ],[
+          76,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          77,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          78,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          79,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          80,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          81,{
+            "fee": 100,
+            "price_per_kbyte": 100
+          }
+        ],[
+          82,{
+            "fee": 100
+          }
+        ],[
+          83,{
+            "fee": 100
+          }
+        ],[
+          84,{
+            "fee": 100
+          }
+        ],[
+          85,{
+            "fee": 100
+          }
+        ],[
+          86,{
+            "fee": 100
+          }
+        ],[
+          87,{
+            "fee": 100
+          }
+        ],[
+          88,{
+            "fee": 100
+          }
+        ],[
+          89,{
+            "fee": 100
+          }
+        ],[
+          90,{
+            "fee": 100
+          }
+        ],[
+          91,{
+            "fee": 100
+          }
+        ],[
+          92,{
+            "fee": 5000
+          }
+        ],[
+          93,{
+            "fee": 100
+          }
+        ],[
+          94,{
+            "fee": 100
+          }
+        ],[
+          95,{
+            "fee": 100
+          }
+        ],[
+          96,{
+            "fee": 100
+          }
+        ],[
+          97,{
+            "fee": 100
+          }
+        ],[
+          98,{
+            "fee": 100
+          }
+        ],[
+          99,{
+            "fee": 100
+          }
+        ],[
+          100,{
+            "fee": 100
+          }
+        ],[
+          101,{
+            "fee": 100000000
+          }
+        ],[
+          102,{
+            "fee": 100
+          }
+        ],[
+          103,{
+            "fee": 100
+          }
+        ],[
+          104,{
+            "fee": 100
+          }
+        ],[
+          105,{
+            "fee": 100
+          }
+        ],[
+          106,{
+            "fee": 100
+          }
+        ],[
+          107,{
+            "fee": 100
+          }
+        ],[
+          108,{
+            "fee": 100
+          }
+        ],[
+          109,{
+            "fee": 100
+          }
+        ],[
+          110,{
+            "fee": 100
+          }
+        ],[
+          111,{
+            "fee": 100
+          }
+        ],[
+          112,{
+            "fee": 100
+          }
+        ]
+      ],
+      "scale": 10000
+    },
+    "block_interval": 5,
+    "maintenance_interval": 86400,
+    "maintenance_skip_slots": 3,
+    "committee_proposal_review_period": 1209600,
+    "maximum_transaction_size": 2048,
+    "maximum_block_size": 2048000000,
+    "maximum_time_until_expiration": 86400,
+    "maximum_proposal_lifetime": 2419200,
+    "maximum_asset_whitelist_authorities": 10,
+    "maximum_asset_feed_publishers": 10,
+    "maximum_miner_count": 1001,
+    "maximum_guard_count": 15,
+    "minimum_guard_count": 7,
+    "maximum_authority_membership": 10,
+    "reserve_percent_of_fee": 2000,
+    "network_percent_of_fee": 2000,
+    "lifetime_referrer_percent_of_fee": 3000,
+    "cashback_vesting_period_seconds": 31536000,
+    "cashback_vesting_threshold": 10000,
+    "count_non_member_votes": true,
+    "allow_non_member_whitelists": false,
+    "miner_pay_per_block": 1000,
+    "worker_budget_per_day": 50000000,
+    "max_predicate_opcode": 1,
+    "fee_liquidation_threshold": 10000,
+    "accounts_per_fee_scale": 1000,
+    "account_fee_scale_bitshifts": 4,
+    "max_authority_depth": 2,
+    "min_pay_back_balance": 100,
+    "min_pay_back_balance_other_asset": [],
+    "extensions": []
+  },
+  "initial_accounts": [{
+      "name": "hydra",
+      "owner_key": "HB7q7rJnfKtqUBaPztCpNMFwj3g3Vks2ZR2CE1DSVT5b7kZ83CJd",
+      "active_key": "HB7q7rJnfKtqUBaPztCpNMFwj3g3Vks2ZR2CE1DSVT5b7kZ83CJd",
+      "is_lifetime_member": true
+    },{
+      "name": "uma",
+      "owner_key": "HB7jG2kqE1Z1Rq2atw5zDzuLBB6P2DRdxNLPbmC387LwXZeeRoDF",
+      "active_key": "HB7jG2kqE1Z1Rq2atw5zDzuLBB6P2DRdxNLPbmC387LwXZeeRoDF",
+      "is_lifetime_member": true
+    },{
+      "name": "cetus",
+      "owner_key": "HB8hpM16Jz5tWKFZ9ffH1VSfBg8jq7D6XKGAPS24g4y4jHuYHxq8",
+      "active_key": "HB8hpM16Jz5tWKFZ9ffH1VSfBg8jq7D6XKGAPS24g4y4jHuYHxq8",
+      "is_lifetime_member": true
+    },{
+      "name": "pegasus",
+      "owner_key": "HB8XkhYyWrvRjoSq9uaGpcGpp9rpdF2KvYQZHPm3tTxpefJndt51",
+      "active_key": "HB8XkhYyWrvRjoSq9uaGpcGpp9rpdF2KvYQZHPm3tTxpefJndt51",
+      "is_lifetime_member": true
+    },{
+      "name": "leo",
+      "owner_key": "HB5HNPCT3pxpK2CMGWExfP4RzRLKt8ztPkiovMMBpXge71pfqM7t",
+      "active_key": "HB5HNPCT3pxpK2CMGWExfP4RzRLKt8ztPkiovMMBpXge71pfqM7t",
+      "is_lifetime_member": true
+    },{
+      "name": "pisces",
+      "owner_key": "HB5mpkukoEqVyZZ2QS8ag5trLRKXnZhiaPC9ah3Uuf4h4fayCFUT",
+      "active_key": "HB5mpkukoEqVyZZ2QS8ag5trLRKXnZhiaPC9ah3Uuf4h4fayCFUT",
+      "is_lifetime_member": true
+    },{
+      "name": "sagittarius",
+      "owner_key": "HB5ynynxgeSwycj1oStd952xgg3thKHdAix6tXy9RFsJdpiXNSc8",
+      "active_key": "HB5ynynxgeSwycj1oStd952xgg3thKHdAix6tXy9RFsJdpiXNSc8",
+      "is_lifetime_member": true
+    },{
+      "name": "taurus",
+      "owner_key": "HB7omg3N1CSiWkwzJPAKAyrhzf8wocotfyk8ccKBgmVXcT2EUSJ6",
+      "active_key": "HB7omg3N1CSiWkwzJPAKAyrhzf8wocotfyk8ccKBgmVXcT2EUSJ6",
+      "is_lifetime_member": true
+    },{
+      "name": "camelopardus",
+      "owner_key": "HB73sxok6yMbyFUPUSFAsYmvc6bu6RpyNspDrxK6GKjL9AYaSgED",
+      "active_key": "HB73sxok6yMbyFUPUSFAsYmvc6bu6RpyNspDrxK6GKjL9AYaSgED",
+      "is_lifetime_member": true
+    },{
+      "name": "serpens",
+      "owner_key": "HB7muqXApwEt4ntsYWAR6baizjsgwHCXUMJSeSUN8vj1MTkUqoHy",
+      "active_key": "HB7muqXApwEt4ntsYWAR6baizjsgwHCXUMJSeSUN8vj1MTkUqoHy",
+      "is_lifetime_member": true
+    },{
+      "name": "centaurus",
+      "owner_key": "HB79vH5CbUhcgtzLCTTQWoK3PDTCoHnziZ4BdCXLQZr5ZY5gawE8",
+      "active_key": "HB79vH5CbUhcgtzLCTTQWoK3PDTCoHnziZ4BdCXLQZr5ZY5gawE8",
+      "is_lifetime_member": true
+    },{
+      "name": "monoceros",
+      "owner_key": "HB8PLYNxaCD9tm5KRRmD2AfzgjqKrT6NHtSuPQ3QCdajsFX7o1yu",
+      "active_key": "HB8PLYNxaCD9tm5KRRmD2AfzgjqKrT6NHtSuPQ3QCdajsFX7o1yu",
+      "is_lifetime_member": true
+    },{
+      "name": "phoenix",
+      "owner_key": "HB7TpEhvccz6xJydfidymSfxkbFeZ2nTnnKBwhrBr3DKdnpojHYY",
+      "active_key": "HB7TpEhvccz6xJydfidymSfxkbFeZ2nTnnKBwhrBr3DKdnpojHYY",
+      "is_lifetime_member": true
+    },{
+      "name": "aeies",
+      "owner_key": "HB5mB6wetbv8BjJbckz9FjbQLX2jqHJ3zXvopMejfPgZiez5Ki8W",
+      "active_key": "HB5mB6wetbv8BjJbckz9FjbQLX2jqHJ3zXvopMejfPgZiez5Ki8W",
+      "is_lifetime_member": true
+    },{
+      "name": "capricornus",
+      "owner_key": "HB8b1W7Da198ocAUkkn6vtgqgqeqrMC6C12F6kPt9LumpaezBxMi",
+      "active_key": "HB8b1W7Da198ocAUkkn6vtgqgqeqrMC6C12F6kPt9LumpaezBxMi",
+      "is_lifetime_member": true
+    },{
+      "name": "pavo",
+      "owner_key": "HB7R25wGKYFvbbpqVMgGCbkxkx52Xb1pncw1VShxjBPpA6DP3JkR",
+      "active_key": "HB7R25wGKYFvbbpqVMgGCbkxkx52Xb1pncw1VShxjBPpA6DP3JkR",
+      "is_lifetime_member": true
+    },{
+      "name": "lupus",
+      "owner_key": "HB6YEURx35HQw5eFRdN8dbgLM8qirpB1xmSahbaTSypa2r7N2REL",
+      "active_key": "HB6YEURx35HQw5eFRdN8dbgLM8qirpB1xmSahbaTSypa2r7N2REL",
+      "is_lifetime_member": true
+    },{
+      "name": "tucana",
+      "owner_key": "HB5M1qCyiwachveAygzeBnFhGMC4vGhsBAbCbGs77j2Vcth86U6H",
+      "active_key": "HB5M1qCyiwachveAygzeBnFhGMC4vGhsBAbCbGs77j2Vcth86U6H",
+      "is_lifetime_member": true
+    },{
+      "name": "vulpecula",
+      "owner_key": "HB8JcFaDA3kdqntafe2juNTt2FKbYWfrnktmzYTMXfJdzcQfmJ6a",
+      "active_key": "HB8JcFaDA3kdqntafe2juNTt2FKbYWfrnktmzYTMXfJdzcQfmJ6a",
+      "is_lifetime_member": true
+    },{
+      "name": "hydrus",
+      "owner_key": "HB8FGqwinorcXVvnoj6PnQPRSrDrKaZYVKxo9ucWxG572QyJtGFd",
+      "active_key": "HB8FGqwinorcXVvnoj6PnQPRSrDrKaZYVKxo9ucWxG572QyJtGFd",
+      "is_lifetime_member": true
+    },{
+      "name": "lacerta",
+      "owner_key": "HB6wFzxB4fGxMtmGeKwTA9qmt8i8KwcMtuQJhawXL4UA2b22FopY",
+      "active_key": "HB6wFzxB4fGxMtmGeKwTA9qmt8i8KwcMtuQJhawXL4UA2b22FopY",
+      "is_lifetime_member": true
+    },{
+      "name": "delphinus",
+      "owner_key": "HB6KBrhj5knG8J4wZdVTMv3Rgdro7ZDuBW9k93a19PtdhRVhu36L",
+      "active_key": "HB6KBrhj5knG8J4wZdVTMv3Rgdro7ZDuBW9k93a19PtdhRVhu36L",
+      "is_lifetime_member": true
+    },{
+      "name": "corvus",
+      "owner_key": "HB5gfEHgsUGyGkQn7LLjGJQYQtgDt6EBTeaXZhJTZrH7duBxXBLp",
+      "active_key": "HB5gfEHgsUGyGkQn7LLjGJQYQtgDt6EBTeaXZhJTZrH7duBxXBLp",
+      "is_lifetime_member": true
+    },{
+      "name": "dorado",
+      "owner_key": "HB5yTE7gw8ynphZBY7mzHUzELNA4p65i5wH8ERcR6cbtZ7cnGg3Q",
+      "active_key": "HB5yTE7gw8ynphZBY7mzHUzELNA4p65i5wH8ERcR6cbtZ7cnGg3Q",
+      "is_lifetime_member": true
+    },{
+      "name": "volans",
+      "owner_key": "HB8DuciAqMg4euCthgSukr7BZSPb8Pz1rhJSGQEQXcdBZybXFkjE",
+      "active_key": "HB8DuciAqMg4euCthgSukr7BZSPb8Pz1rhJSGQEQXcdBZybXFkjE",
+      "is_lifetime_member": true
+    },{
+      "name": "draco",
+      "owner_key": "HB8ZhoCGjLQbs7bBg1rteNsafr7aCjw9px59BgfeUfH3Db6uHNQM",
+      "active_key": "HB8ZhoCGjLQbs7bBg1rteNsafr7aCjw9px59BgfeUfH3Db6uHNQM",
+      "is_lifetime_member": true
+    },{
+      "name": "cygnus",
+      "owner_key": "HB7Xh3uCaUJwxarXG3tLp7SnpxcWDVaBh36oHgNG9mVX8g3j8zUH",
+      "active_key": "HB7Xh3uCaUJwxarXG3tLp7SnpxcWDVaBh36oHgNG9mVX8g3j8zUH",
+      "is_lifetime_member": true
+    },{
+      "name": "aquila",
+      "owner_key": "HB5nrwx7FqKXSPWDs1RDWDSxmrT9EGx4SM4HoHjex8CbqY4zqWE9",
+      "active_key": "HB5nrwx7FqKXSPWDs1RDWDSxmrT9EGx4SM4HoHjex8CbqY4zqWE9",
+      "is_lifetime_member": true
+    },{
+      "name": "lynx",
+      "owner_key": "HB6Nv2yFct7Lv1yYKxVmihYhccDrSoPsJCBBhV31zvST574zgmFG",
+      "active_key": "HB6Nv2yFct7Lv1yYKxVmihYhccDrSoPsJCBBhV31zvST574zgmFG",
+      "is_lifetime_member": true
+    },{
+      "name": "libra",
+      "owner_key": "HB5Npvx2G7revjhkku9BKQG1A357wxnxgM6e38qRhXng8RvfHdkR",
+      "active_key": "HB5Npvx2G7revjhkku9BKQG1A357wxnxgM6e38qRhXng8RvfHdkR",
+      "is_lifetime_member": true
+    },{
+      "name": "scorpius",
+      "owner_key": "HB669TSmdDW1zepMt1HGsstd5iV9DN1BqV8F7PpuFwgmRF9Fkrgp",
+      "active_key": "HB669TSmdDW1zepMt1HGsstd5iV9DN1BqV8F7PpuFwgmRF9Fkrgp",
+      "is_lifetime_member": true
+    },{
+      "name": "fornax",
+      "owner_key": "HB778SvDyTRAJJk8Vtkfzm6FisZPW1b2aZAHubDFoeehdmY3KnAu",
+      "active_key": "HB778SvDyTRAJJk8Vtkfzm6FisZPW1b2aZAHubDFoeehdmY3KnAu",
+      "is_lifetime_member": true
+    },{
+      "name": "grus",
+      "owner_key": "HB76EhVKXsDpjZ8onn1cFbnv6LkvrzcUinAkr2TAeSRftM8fyDEa",
+      "active_key": "HB76EhVKXsDpjZ8onn1cFbnv6LkvrzcUinAkr2TAeSRftM8fyDEa",
+      "is_lifetime_member": false
+    },{
+      "name": "lepus",
+      "owner_key": "HB8A9aMqzQ7KNTRgisPdJyCDePK1RmK5dAiSKuBCPEaVgKkPLv4x",
+      "active_key": "HB8A9aMqzQ7KNTRgisPdJyCDePK1RmK5dAiSKuBCPEaVgKkPLv4x",
+      "is_lifetime_member": false
+    },{
+      "name": "lyra",
+      "owner_key": "HB6bjuGgviHSxijox3Q4PKLF2AESGy1peHYtinpGtaXSGNT1Lmcw",
+      "active_key": "HB6bjuGgviHSxijox3Q4PKLF2AESGy1peHYtinpGtaXSGNT1Lmcw",
+      "is_lifetime_member": false
+    },{
+      "name": "columba",
+      "owner_key": "HB5hYUuEGCTJRzKdVKEHECqhgGdxrGVCw4owCjP5Phb8noibvqfq",
+      "active_key": "HB5hYUuEGCTJRzKdVKEHECqhgGdxrGVCw4owCjP5Phb8noibvqfq",
+      "is_lifetime_member": false
+    },{
+      "name": "ara",
+      "owner_key": "HB8922pkaDaQxkSVCXTLsBuJRCik6gG35Pe1AvRXJzhGco2f2uGA",
+      "active_key": "HB8922pkaDaQxkSVCXTLsBuJRCik6gG35Pe1AvRXJzhGco2f2uGA",
+      "is_lifetime_member": false
+    },{
+      "name": "apus",
+      "owner_key": "HB7ZBhAbUBH97LqVJxtYdHqKSDnG3zyrUHyznsRnAUMFhRaftEur",
+      "active_key": "HB7ZBhAbUBH97LqVJxtYdHqKSDnG3zyrUHyznsRnAUMFhRaftEur",
+      "is_lifetime_member": false
+    },{
+      "name": "sagitta",
+      "owner_key": "HB4uvCFFiDSPkbqYsFPc5DhqR9qb4ZSoo1eN6acMZJ3Rp5cf9ZGd",
+      "active_key": "HB4uvCFFiDSPkbqYsFPc5DhqR9qb4ZSoo1eN6acMZJ3Rp5cf9ZGd",
+      "is_lifetime_member": false
+    },{
+      "name": "perseus",
+      "owner_key": "HB6PthMB3fyeDLnxBtinQD64sMJ5iNRQzabC3jni4SPdDakzqRfC",
+      "active_key": "HB6PthMB3fyeDLnxBtinQD64sMJ5iNRQzabC3jni4SPdDakzqRfC",
+      "is_lifetime_member": false
+    }
+  ],
+  "initial_assets": [],
+  "initial_balances": [],
+  "initial_vesting_balances": [],
+  "initial_active_miners": 25,
+  "initial_miner_candidates": [{
+      "owner_name": "hydra",
+      "block_signing_key": "HB7q7rJnfKtqUBaPztCpNMFwj3g3Vks2ZR2CE1DSVT5b7kZ83CJd"
+    },{
+      "owner_name": "uma",
+      "block_signing_key": "HB7jG2kqE1Z1Rq2atw5zDzuLBB6P2DRdxNLPbmC387LwXZeeRoDF"
+    },{
+      "owner_name": "cetus",
+      "block_signing_key": "HB8hpM16Jz5tWKFZ9ffH1VSfBg8jq7D6XKGAPS24g4y4jHuYHxq8"
+    },{
+      "owner_name": "pegasus",
+      "block_signing_key": "HB8XkhYyWrvRjoSq9uaGpcGpp9rpdF2KvYQZHPm3tTxpefJndt51"
+    },{
+      "owner_name": "leo",
+      "block_signing_key": "HB5HNPCT3pxpK2CMGWExfP4RzRLKt8ztPkiovMMBpXge71pfqM7t"
+    },{
+      "owner_name": "pisces",
+      "block_signing_key": "HB5mpkukoEqVyZZ2QS8ag5trLRKXnZhiaPC9ah3Uuf4h4fayCFUT"
+    },{
+      "owner_name": "sagittarius",
+      "block_signing_key": "HB5ynynxgeSwycj1oStd952xgg3thKHdAix6tXy9RFsJdpiXNSc8"
+    },{
+      "owner_name": "taurus",
+      "block_signing_key": "HB7omg3N1CSiWkwzJPAKAyrhzf8wocotfyk8ccKBgmVXcT2EUSJ6"
+    },{
+      "owner_name": "camelopardus",
+      "block_signing_key": "HB73sxok6yMbyFUPUSFAsYmvc6bu6RpyNspDrxK6GKjL9AYaSgED"
+    },{
+      "owner_name": "serpens",
+      "block_signing_key": "HB7muqXApwEt4ntsYWAR6baizjsgwHCXUMJSeSUN8vj1MTkUqoHy"
+    },{
+      "owner_name": "centaurus",
+      "block_signing_key": "HB79vH5CbUhcgtzLCTTQWoK3PDTCoHnziZ4BdCXLQZr5ZY5gawE8"
+    },{
+      "owner_name": "monoceros",
+      "block_signing_key": "HB8PLYNxaCD9tm5KRRmD2AfzgjqKrT6NHtSuPQ3QCdajsFX7o1yu"
+    },{
+      "owner_name": "phoenix",
+      "block_signing_key": "HB7TpEhvccz6xJydfidymSfxkbFeZ2nTnnKBwhrBr3DKdnpojHYY"
+    },{
+      "owner_name": "aeies",
+      "block_signing_key": "HB5mB6wetbv8BjJbckz9FjbQLX2jqHJ3zXvopMejfPgZiez5Ki8W"
+    },{
+      "owner_name": "capricornus",
+      "block_signing_key": "HB8b1W7Da198ocAUkkn6vtgqgqeqrMC6C12F6kPt9LumpaezBxMi"
+    },{
+      "owner_name": "pavo",
+      "block_signing_key": "HB7R25wGKYFvbbpqVMgGCbkxkx52Xb1pncw1VShxjBPpA6DP3JkR"
+    },{
+      "owner_name": "lupus",
+      "block_signing_key": "HB6YEURx35HQw5eFRdN8dbgLM8qirpB1xmSahbaTSypa2r7N2REL"
+    },{
+      "owner_name": "tucana",
+      "block_signing_key": "HB5M1qCyiwachveAygzeBnFhGMC4vGhsBAbCbGs77j2Vcth86U6H"
+    },{
+      "owner_name": "vulpecula",
+      "block_signing_key": "HB8JcFaDA3kdqntafe2juNTt2FKbYWfrnktmzYTMXfJdzcQfmJ6a"
+    },{
+      "owner_name": "hydrus",
+      "block_signing_key": "HB8FGqwinorcXVvnoj6PnQPRSrDrKaZYVKxo9ucWxG572QyJtGFd"
+    },{
+      "owner_name": "lacerta",
+      "block_signing_key": "HB6wFzxB4fGxMtmGeKwTA9qmt8i8KwcMtuQJhawXL4UA2b22FopY"
+    },{
+      "owner_name": "delphinus",
+      "block_signing_key": "HB6KBrhj5knG8J4wZdVTMv3Rgdro7ZDuBW9k93a19PtdhRVhu36L"
+    },{
+      "owner_name": "corvus",
+      "block_signing_key": "HB5gfEHgsUGyGkQn7LLjGJQYQtgDt6EBTeaXZhJTZrH7duBxXBLp"
+    },{
+      "owner_name": "dorado",
+      "block_signing_key": "HB5yTE7gw8ynphZBY7mzHUzELNA4p65i5wH8ERcR6cbtZ7cnGg3Q"
+    },{
+      "owner_name": "volans",
+      "block_signing_key": "HB8DuciAqMg4euCthgSukr7BZSPb8Pz1rhJSGQEQXcdBZybXFkjE"
+    }
+  ],
+  "initial_guard_candidates": [
+    {
+      "owner_name": "draco",
+      "type": "PERMANENT"
+    },
+    {
+      "owner_name": "cygnus",
+      "type": "PERMANENT"
+    },
+    {
+      "owner_name": "aquila",
+      "type": "PERMANENT"
+    },
+    {
+      "owner_name": "lynx",
+      "type": "PERMANENT"
+    },
+    {
+      "owner_name": "libra",
+      "type": "PERMANENT"
+    },
+    {
+      "owner_name": "scorpius"
+    },
+    {
+      "owner_name": "fornax"
+    },
+    {
+      "owner_name": "grus"
+    },
+    {
+      "owner_name": "lepus"
+    },
+    {
+      "owner_name": "lyra"
+    },
+    {
+      "owner_name": "columba"
+    },
+    {
+      "owner_name": "ara"
+    },
+    {
+      "owner_name": "apus"
+    },
+    {
+      "owner_name": "sagitta"
+    },
+    {
+      "owner_name": "perseus"
+    }
+  ],
+  "initial_worker_candidates": [],
+  "initial_chain_id": "aa34045518f1469a28fa4578240d5f039afa9959c0b95ce3b39674efa691fb21",
+  "immutable_parameters": {
+    "min_guard_count": 7,
+    "min_miner_count": 25,
+    "num_special_accounts": 0,
+    "num_special_assets": 0
+  }
+}
