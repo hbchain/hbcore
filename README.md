@@ -11,7 +11,7 @@ This is a special blockchain network which aims to link all valued blockchain ne
 * Autonomy of community
 * 100% cash deposit
 * Smart contract (support multi-language, C#, Java, Kotlin)
-* RPPOM consensus
+* H+POR consensus
 * Decentralized POS pool
 * General asset minning (mining with any coin, like BTC/LTC etc.)
 
